@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BI Team
+title: BI Neoway
 ---
 
 <p class="message">
