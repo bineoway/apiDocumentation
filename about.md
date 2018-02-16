@@ -4,10 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Here you can know more about what BI Neoway API can do for your company. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Let's suppose you want to be free to analyse the data when and how you decide. So that we created the BI API. 
+Well, now you can extract the data and use with any tool such as excel, PowerBI, Tableau, QlikView, Pentaho, Talend and so.
+
+We have to say, *It is Amazing!*.
 
 There are currently two themes built on Poole:
 
