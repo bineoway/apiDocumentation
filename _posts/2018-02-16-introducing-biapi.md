@@ -8,11 +8,9 @@ Here you can learn how to interact with Business Intelligence Neoway APIs and ge
 ### Topics
 
 * [What is BI Neoway API?](https://bineoway.github.io/apiDocumentation/biteam)
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* [What kind of data can I get there?](https://bineoway.github.io/apiDocumentation/biteam)
+* [How to make my GET Requests?](https://bineoway.github.io/apiDocumentation/biteam)
+* [ERRORS](https://bineoway.github.io/apiDocumentation/biteam)
 
 ### Support
 
