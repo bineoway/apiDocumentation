@@ -8,7 +8,7 @@ title:               Neoway
 tagline:             'BI API Documentation'
 description:         'Visit <a href="http://neoway.com.br" target="_blank">Neoway</a>.'
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             '/apiDocumentation'
 paginate:            5
 
 # About/contact
