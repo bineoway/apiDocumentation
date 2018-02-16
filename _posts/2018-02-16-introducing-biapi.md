@@ -7,7 +7,7 @@ Here you can learn how to interact with Business Intelligence Neoway APIs and ge
 
 ### Topics
 
-* [What is BI Neoway API?](biteam)
+* [What is BI Neoway API?](https://bineoway.github.io/apiDocumentation/biteam)
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
@@ -16,5 +16,5 @@ Here you can learn how to interact with Business Intelligence Neoway APIs and ge
 
 ### Support
 
-He hope this guide helps you, but we know that sometimes it is important to be more close so, if this user guide was not enough or if you still have any question feel free to contact us on (+55 0800 006 1661).
+We hope this guide helps you, but we know that sometimes it is important to be more close so, if this user guide was not enough or if you still have any question feel free to contact us on (+55 0800 006 1661).
 If you did a GET request but you got some status error please, provide us details about this error.
