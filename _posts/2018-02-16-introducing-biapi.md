@@ -7,7 +7,7 @@ Here you can learn how to interact with Business Intelligence Neoway APIs and ge
 
 ### Topics
 
-* [What is BI Neoway API?](apiDocumentation/biteam)
+* [What is BI Neoway API?](/biteam)
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
