@@ -7,7 +7,7 @@ title: BI Neoway
   The Neoway BI team can provide you a great range of service solutions. We can build Business Intelligence aplications and we also can provide you data through a Restful API service.
 </p>
 
-# BI APLICATIONS
+#### BI APLICATIONS
 
 We have a specialized team of Customer Success that can help you to identify and specify your business's needs.
 Once we have a specification document defined the BI Team will analyse it and build a DataCloud by an ETL process to design professional dashboards and reports to support your decisions make.
