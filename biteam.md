@@ -20,6 +20,15 @@ Currently we work with the following BI tools:
 * PowerBI
 * Pentaho
 
+Neoway is a Company specialized in Big Data therefore we have a huge number of different data sources. For example:
+
+* Personal Data (Individual / Natural Person)
+* Legal Entities
+* Vehicle
+* and more...
+
+It means the BI Team can merge these data to your companie's data or scenario and show you 
+
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
