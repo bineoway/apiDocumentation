@@ -4,15 +4,22 @@ title: BI Neoway
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  The Neoway BI team can provide you a great range of service solutions. We can build Business Intelligence aplications and we also can provide you data through a Restful API service.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+# BI APLICATIONS
 
-There are currently two themes built on Poole:
+We have a specialized team of Customer Success that can help you to identify and specify your business's needs.
+Once we have a specification document defined the BI Team will analyse it and build a DataCloud by an ETL process to design professional dashboards and reports to support your decisions make.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+[Here you can check some applications](http://colocaralgoaqui.com)
+
+Currently we work with the following BI tools:
+
+* QlikView
+* PowerBI
+* Pentaho
+
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 

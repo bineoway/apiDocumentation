@@ -1,6 +1,6 @@
 ---
 layout: commonPage
-title: About
+title: About API
 ---
 
 <p class="message">
