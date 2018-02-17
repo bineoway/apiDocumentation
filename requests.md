@@ -21,9 +21,7 @@ You can use any tool that is able to run an extraction process. There are free o
 
 We are going to cover these four options with good examples here so that you can learn easier.
 
-## Examples
-
-[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## Sample API Requests
 
 - [QlikView](http://paginaexemplo.com)
 - [Pentaho](http://paginaexemplo.com)
