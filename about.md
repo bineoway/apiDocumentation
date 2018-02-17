@@ -10,6 +10,10 @@ title: About API
 Let's suppose you want to be free to analyse the data when and how you decide. So that we created the BI API. 
 Well, now you can extract the data and use with any tool such as excel, PowerBI, Tableau, QlikView, Pentaho, Talend and so.
 
+BI API is a Restful API built with nodejs and it works like a charm.
+
+All you have to do is make a GET request with a pagination method such as a loop structure. For this you have to inform us your client id the skip and limit of recors per page.
+
 We have to say, *It is Amazing!*.
 
 There are currently two themes built on Poole:

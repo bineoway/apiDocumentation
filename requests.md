@@ -1,14 +1,26 @@
 ---
 layout: page
-title: Requests
+title: API Requests
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Well, it's time to understand how the Neoway BI API works.
 </div>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+You do not have to worry about this step. We are here to make it works well.
+
+The BI API was developed to work fast and we choose to build a pagination function to provide n records per page. It means you have to tell us how much records you want to get per page and another parameters that we will list and explain here.
+
+As we said before, it is a *RESTful API*, so you must open a rest connection to make your GET request and you have to iterate the pages.
+
+
+### What kind of tools can I use to read/extract these data?
+
+You can use any tool that is able to run an extraction process. There are free options available such as Pentaho and Talend, but also there are paid options such as Qlikview and Tableau.
+
+We are going to cover these four options with good examples here so that you can learn easier.
+
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
