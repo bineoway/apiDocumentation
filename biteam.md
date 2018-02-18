@@ -39,7 +39,7 @@ It means the BI Team can merge these data to your company's data or scenario and
 ### BI API
 
 <p class="message">
-Let's suppose you want to be free to analise the data how and whenever you decide to. You do not want to ask us to change a specific BI Aplication and wait to see the results. 
+Let's suppose you want to be free to analyse the data how and whenever you decide to. You do not want to ask us to change a specific BI Aplication and wait to see the results. 
 </p>
 
 Thinking about this scenario we developed a complete Restful API so that you can extract the data and build your own analysis.
