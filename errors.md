@@ -5,7 +5,7 @@ title: Status Codes
 
 
 <div class="message">
-  Did you get some error?.
+  Did you get some error?
 </div>
 
 Here you can check the meaning of all status codes.
