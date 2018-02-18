@@ -14,6 +14,7 @@ This page was build to show you more details of the errors you can get while int
 
 Support: +55 0800 006 1661
 
+
 ### Common Satatus Codes
 
 <table>
@@ -43,9 +44,6 @@ Support: +55 0800 006 1661
   </tbody>
 </table>
 
-
-
-## ERROR MESSAGES
 
 ### Neoway BI API Common Satatus Codes and messages
 <table>
