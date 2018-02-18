@@ -16,6 +16,7 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 - [Development](#development)
 - [Author](#author)
 - [License](#license)
+- [Teste](#teste)
 
 
 ## Usage
@@ -132,3 +133,5 @@ Lanyon has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+## Teste
