@@ -14,5 +14,5 @@ Here you can learn how to interact with Business Intelligence Neoway API and get
 
 ### Support
 
-We hope this guide helps you, but we know that sometimes it is important to be more close so, if this user guide was not enough or if you still have any question feel free to contact us on (+55 0800 006 1661).
+We hope this guide helps you, but we know that sometimes it is important to be more close so, if this user guide was not enough or if you still have any question feel free to contact us on **(+55 0800 006 1661)**.
 If you did a GET request but you got an error message please, provide us details about this error.
