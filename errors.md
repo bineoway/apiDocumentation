@@ -9,7 +9,8 @@ title: Status Codes
 </div>
 
 Here you can check the meaning of all status codes.
-This page was build to show you more details of the errors you can get while interacting to Neoway BI API, but we recomend you to call us and provide the error you get so that we can analyse the problem and solve it as fast as possible.
+
+This page was build to show you more details of the errors you can get while interacting to Neoway BI API, but we recomend you to call us and provide the error you have got so that we can analyse the problem and solve it as fast as possible.
 
 Support: +55 0800 006 1661
 
