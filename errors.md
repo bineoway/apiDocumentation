@@ -38,11 +38,50 @@ Here you can check the meaning of all status codes.
 </table>
 
 
+
 ## ERROR MESSAGES
 
-### t
-
+<table>
+  <thead>
+    <tr>
+      <th>Code</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>403 - OK</td>
+      <td>The limit per page is 10000 records!</td>
+    </tr>
+    <tr>
+      <td>404 - Not Found</td>
+      <td>'An error ocurred while requesting the data from BI API. Please, contact Neoway support team on (+55 0800 006 1661) and provide them this error message.</td>
+    </tr>
+    <tr>
+      <td>401 - Unauthorized</td>
+      <td>No valid integration key provided.</td>
+    </tr>
+    <tr>
+      <td>404 - Not Found</td>
+      <td>Customer data was not found!</td>
+    </tr>
+    <tr>
+      <td>404 - Not Found</td>
+      <td>Client not found!</td>
+    </tr>
+    <tr>
+      <td>401 - Unauthorized</td>
+      <td>You must specify a Fact!</td>
+    </tr>
+    <tr>
+      <td>404 - Not Found</td>
+      <td>Fact not found!</td>
+    </tr>
+    <tr>
+      <td>??</td>
+      <td>Type Services not found!</td>
+    </tr>
+  </tbody>
+</table>
 
 -----
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
