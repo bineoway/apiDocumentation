@@ -4,7 +4,7 @@ title: About API
 ---
 
 <p class="message">
-  Hey there! Here you can know more about what BI Neoway API can do for your company. Carry on!
+  Hey there! Here you can know more about what Neoway BI API can do for your company. Carry on!
 </p>
 
 Let's suppose you want to be free to analyse the data when and how you decide. So that we created the BI API. 
