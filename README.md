@@ -11,6 +11,9 @@ You also can check what Neoway BI can do for your company.
 
 ## Neoway
 
+We solve real problems for companies that need to sell more and lose less.
+
+We use Big Data as a tool for discovering market opportunities, empowering nontechnical users to navigate massive databases, and making strategic data-driven decisions more confidently.
 
 ## Guide Layout
 
