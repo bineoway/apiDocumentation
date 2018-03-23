@@ -15,37 +15,7 @@ This page was build to show you more details of the errors you can get while int
 Support: +55 0800 006 1661
 
 
-### Common Satatus Codes
-
-<table>
-  <thead>
-    <tr>
-      <th>Code</th>
-      <th>Meaning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>200 - OK</td>
-      <td>Everything worked as expected.</td>
-    </tr>
-    <tr>
-      <td>400 - Bad Request</td>
-      <td>The request was unacceptable, often due to missing a required parameter.</td>
-    </tr>
-    <tr>
-      <td>401 - Unauthorized</td>
-      <td>No valid integration key provided.</td>
-    </tr>
-    <tr>
-      <td>404 - Not Found</td>
-      <td>The requested resource doesn’t exist.</td>
-    </tr>
-  </tbody>
-</table>
-
-
-### Neoway BI API Common Satatus Codes and messages
+### Neoway BI API Status Codes and Messages
 <table>
   <thead>
     <tr>
@@ -60,7 +30,7 @@ Support: +55 0800 006 1661
     </tr>
     <tr>
       <td>404 - Not Found</td>
-      <td>'An error ocurred while requesting the data from BI API. Please, contact Neoway support team on (+55 0800 006 1661) and provide them this error message.</td>
+      <td>An error occurred while requesting the data from BI API. Please, contact Neoway support team on (+55 0800 006 1661) and provide them this error message.</td>
     </tr>
     <tr>
       <td>401 - Unauthorized</td>
