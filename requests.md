@@ -44,6 +44,4 @@ There are free options available such as Pentaho and Talend, but also there are 
 
 ## Postman sample:
 
-
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+Postman sample here.
