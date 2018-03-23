@@ -10,7 +10,7 @@ title: API Requests
 
 You do not have to worry about this step. We are here to make it works well.
 
-First you have to decide if you are going to use one of our extractors or if you preffer to build your own extractor. We really recommend you to use one of our extractors for some reasons as follows:
+First, you have to decide if you are going to use one of our extractors or if you prefer to build your own extractor. We really recommend you to use one of our extractors for some reasons as follows:
 
 - It is the easier way for you to interact with the Neoway BI API.
 - Considering that we developed the BI API we know exactly the best way to interact with it.
@@ -23,6 +23,9 @@ First you have to decide if you are going to use one of our extractors or if you
 
 
 ### BI API EXTRACTORS
+
+Think how to make this process esier we developed two extractor options. One written in QlikView Language and another one written in JavaScript, based on Node.JS.
+
 
 ### DEVELOP AN EXTRACTOR
 
