@@ -10,6 +10,15 @@ title: API Requests
 
 You do not have to worry about this step. We are here to make it works well.
 
+First you have to decide if you are going to use one of our extractors or if you preffer to build your own extractor. We really recommend you to use one of our extractors for some reasons as follows:
+
+- It is the easier way for you to interact with the Neoway BI API.
+- Since we developed the BI API we know exactly the best way to interact with it.
+- Our extractors are optimized.
+
+1. Use Neoway BI API extractor.
+2. Develop an extractor.
+
 The BI API was developed to work fast and we choose to build a pagination function to provide n records per page. It means you have to tell us how much records you want to get per page and another parameters that we will list and explain here.
 
 As we said before, it is a *RESTful API*, so you must open a rest connection to make your GET request and you have to iterate the pages.
