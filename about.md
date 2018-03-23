@@ -19,6 +19,6 @@ Generally, all you have to do is to make a GET request with a pagination method 
 
 Go to the [requests](https://neowaycx.github.io/BIApiDocumentation/requests) page and learn how to use this microservice to get the data.
 
-We have to say, *It is Amazing!*.
+We have to say, *It is Amazing!*
 
 Enjoy!
