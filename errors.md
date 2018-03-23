@@ -15,6 +15,7 @@ This page was built to show you more details of the errors you can get while int
 Support: +55 0800 006 1661
 
 
+
 ### Neoway BI API Status Codes and Messages
 <table>
   <thead>
