@@ -7,10 +7,10 @@ Here you can learn how to interact with Neoway Business Intelligence API and get
 
 ### Topics
 
-* [What is BI Neoway API?](https://bineoway.github.io/BIApiDocumentation/about)
-* [What kind of data can I get there?](https://bineoway.github.io/BIApiDocumentation/biteam)
-* [How to make my GET Requests?](https://bineoway.github.io/BIApiDocumentation/requests)
-* [Status Codes - Errors](https://bineoway.github.io/BIApiDocumentation/errors)
+* [What is BI Neoway API?](https://neowaycx.github.io/BIApiDocumentation/about)
+* [What kind of data can I get there?](https://neowaycx.github.io/BIApiDocumentation/biteam)
+* [How to make my GET Requests?](https://neowaycx.github.io/BIApiDocumentation/requests)
+* [Status Codes - Errors](https://neowaycx.github.io/BIApiDocumentation/errors)
 
 ### Support
 
