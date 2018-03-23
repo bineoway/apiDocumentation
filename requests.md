@@ -16,6 +16,8 @@ First you have to decide if you are going to use one of our extractors or if you
 - Since we developed the BI API we know exactly the best way to interact with it.
 - Our extractors are optimized.
 
+
+### Make your choice:
 1. Use Neoway BI API extractor.
 2. Develop an extractor.
 
