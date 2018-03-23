@@ -24,31 +24,25 @@ First, you have to decide if you are going to use one of our extractors or if yo
 
 ### BI API EXTRACTORS
 
-Think how to make this process esier we developed two extractor options. One written in QlikView Language and another one written in JavaScript, based on Node.JS.
+Thinking how to make this process easier we developed two extractor options. One written in QlikView Language and another one written in JavaScript, based on Node.JS.
+
+When you contract BI API the BI Team will contact you and provide access to both Git repositories where you will find the instructions to use each one extractor on "README" file.
 
 
 ### DEVELOP AN EXTRACTOR
 
-The BI API was developed to work fast and we choose to build a pagination function to provide n records per page. It means you have to tell us how much records you want to get per page and another parameters that we will list and explain here.
+The BI API was developed to work fast and we choose to build a pagination function to provide n records per page. It means you have to tell us how much records you want to get per page and other parameters that we will list and explain here.
 
-As we said before, it is a *RESTful API*, so you must open a rest connection to make your GET request and you have to iterate the pages.
+As we said before, it is a *RESTful API*, so first of all, you must open a rest connection to make your GET request and you have to iterate the pages.
 
 
-### What kind of tools can I use to read/extract these data?
+### What kind of tools can I use to analyze these data?
 
-You can use any tool that is able to run an extraction process. There are free options available such as Pentaho and Talend, but also there are paid options such as Qlikview and Tableau.
+You can use any tool that is able to read data from files, databases or data APIs. 
+There are free options available such as Pentaho and Talend, but also there are paid options such as QlikView, Tableau and Power BI.
 
-We are going to cover these four options with good examples here so that you can learn easier.
 
-## Sample API Requests
-
-- [QlikView](http://paginaexemplo.com)
-- [Pentaho](http://paginaexemplo.com)
-- [Tableau](http://paginaexemplo.com)
-- [Talend](http://paginaexemplo.com)
-
-This is a postman sample:
-
+## Postman sample:
 
 ### Code
 
