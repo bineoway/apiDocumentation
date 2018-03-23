@@ -19,7 +19,7 @@ Support: +55 0800 006 1661
 <table>
   <thead>
     <tr>
-      <th>Code</th>
+      <th width="100">Code</th>
       <th>Meaning</th>
     </tr>
   </thead>
