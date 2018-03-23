@@ -26,7 +26,7 @@ First, you have to decide if you are going to use one of our extractors or if yo
 
 Thinking how to make this process easier we developed two extractor options. One written in **QlikView Language** and another one written in **JavaScript**, based on **Node.JS**.
 
-When you contract BI API the BI Team will contact you and provide access to both Git repositories where you will find the instructions to use each one extractor on **"README"** file.
+When you contract BI API the BI Team will contact you and provide access to both Git repositories where you will find the instructions to use each one extractor on <blue>**"README"**</blue> file.
 
 
 ### DEVELOP AN EXTRACTOR
