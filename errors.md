@@ -83,7 +83,7 @@ Support: +55 0800 006 1661
       <td>Fact not found!</td>
     </tr>
     <tr>
-      <td>??</td>
+      <td>404 - Not Found</td>
       <td>Type Services not found!</td>
     </tr>
   </tbody>
