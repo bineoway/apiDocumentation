@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Neoway BI API documentation.
 ---
 
-Here you can learn how to interact with Neoway Business Intelligence API and get data throught this service.
+Here you can learn how to interact with Neoway Business Intelligence API and get data through this service.
 
 ### Topics
 
