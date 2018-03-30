@@ -55,6 +55,10 @@ After POST request, you will receive an access token to initiate the data reques
 
 > **Important!** - *The threshold parameter will accept up to 10,000 records per page. Above this the request will be denied.*
 
+The request response is structured in json format. In this way, we have in this answer all fact data at a json level called results and terms the number of records at the count level.
+
+Following this proposal, we suggest that the extraction logic continue to observe the values of the limit parameter that was informed, with the value of the count level coming from each request. So when count is less than limit it indicates that we have reached the end of the data.
+
 
 ### What kind of tools can I use to analyze these data?
 
@@ -64,4 +68,5 @@ There are free options available such as Pentaho and Talend, but also there are 
 
 ## Postman sample:
 
+We have prepared a json file, where you can import this file into Postman.
 [Postman sample here.](https://github.com/neowaycx/BIApiDocumentation/blob/gh-pages/postmanRequests.json)
