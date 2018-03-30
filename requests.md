@@ -28,9 +28,9 @@ Thinking how to make this process easier we developed two extractor options. One
 
 When you contract BI API the BI Team will contact you and provide access to both Git repositories where you will find the instructions to use each one extractor on **"README"** file.
 
-> [Extract Node Documentation](https://github.com/neowaycx/extract_api_node)
+[Extract Node Documentation](https://github.com/neowaycx/extract_api_node)
 
-> [Extract QlikView Documentation](https://github.com/neowaycx/extract_api_qlikview)
+[Extract QlikView Documentation](https://github.com/neowaycx/extract_api_qlikview)
 
 
 ### DEVELOP AN EXTRACTOR
