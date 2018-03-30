@@ -46,6 +46,8 @@ To get the request permissions, you'll first need to get an access token. You ca
 *Example of curl request on Windows*
 > `curl -X POST https://api.neoway.com.br/auth/token -d "{ \"application\": \"your-application-name\", \"application_secret\": \"your-secret\" }"`
 
+> **Important!** - *The access toke is valid for 30 minutes*
+
 After POST request, you will receive an access token to initiate the data request process.
 
 *For data requests, you will do a curl this way*
