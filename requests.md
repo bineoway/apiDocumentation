@@ -51,7 +51,10 @@ To get the request permissions, you'll first need to get an access token. You ca
 After POST request, you will receive an access token to initiate the data request process.
 
 *For data requests, you will do a curl this way*
-> `curl -X GET https://api.neoway.com.br/services/bi/sumOfClients -H 'limit: 10' -H 'skip: 0' -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhdGlvbklkIjoiYmktdGhvbXNvbi1yZXV0ZXJzLWFwcCIsImNsaWVudElkIjoiMjMzIiwiZXhwIjoxNTIyNDQxMjM4fQ.zZ1Q2h08xoNGMN6mKGQq3gNZB-89TiirqtN02d2nYsw'`
+> `curl -X GET https://api.neoway.com.br/services/bi/sumOfClients -H 'limit: 1' -H 'skip: 0' -H 'authorization: Bearer <yourAccessToken>'`
+
+> **Important!** - *The threshold parameter will accept up to 10,000 records per page. Above this the request will be denied.*
+
 
 ### What kind of tools can I use to analyze these data?
 
