@@ -64,4 +64,4 @@ There are free options available such as Pentaho and Talend, but also there are 
 
 ## Postman sample:
 
-Postman sample here.
+[Postman sample here.](https://github.com/neowaycx/BIApiDocumentation/blob/gh-pages/postmanRequests.json)
